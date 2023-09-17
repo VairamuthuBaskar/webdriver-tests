@@ -1,4 +1,4 @@
-# Build Function Based Shell Script for all software installations and Maven execution
+# Build Function Based Shell Script for all softwares installation and Maven execution
 
 
 #!/bin/bash
